@@ -1,26 +1,131 @@
 {
   "meta": {
     "project": "Panyambung Basa",
-    "authority": "Tarmin Abdulghani",
-    "version": "v1.0",
-    "type": "curated snapshot"
+    "version": "v1.1.1",
+    "authority": "tarminag",
+    "visibility": "public",
+    "note": "File publik (hasil penggabungan, tanpa arsip batch)"
   },
   "terms": {
-    "opsi": {
+    "pilihan": {
       "su": "pilihan",
-      "id": "opsi",
+      "id": "pilihan",
       "en": "option",
-      "catetan": "Padanan baku Basa Sunda"
+      "kategori": "benda"
     },
-    "developer": {
-      "su": "pangembang parangkat lunak",
-      "id": "pengembang perangkat lunak",
-      "en": "software developer"
+    "data": {
+      "su": "data",
+      "id": "data",
+      "en": "data",
+      "kategori": "benda"
+    },
+    "sistem": {
+      "su": "sistem",
+      "id": "sistem",
+      "en": "system",
+      "kategori": "benda"
+    },
+    "aplikasi": {
+      "su": "aplikasi",
+      "id": "aplikasi",
+      "en": "application",
+      "kategori": "benda"
     },
     "mahasiswa": {
       "su": "mahasiswa",
       "id": "mahasiswa",
-      "en": "student"
+      "en": "student",
+      "kategori": "benda"
+    },
+    "dosen": {
+      "su": "dosen",
+      "id": "dosen",
+      "en": "lecturer",
+      "kategori": "benda"
+    },
+    "kampus": {
+      "su": "kampus",
+      "id": "kampus",
+      "en": "campus",
+      "kategori": "benda"
+    },
+    "kelas": {
+      "su": "kelas",
+      "id": "kelas",
+      "en": "class",
+      "kategori": "benda"
+    },
+    "jadwal": {
+      "su": "jadwal",
+      "id": "jadwal",
+      "en": "schedule",
+      "kategori": "benda"
+    },
+    "nilai": {
+      "su": "nilai",
+      "id": "nilai",
+      "en": "grade",
+      "kategori": "benda"
+    },
+    "ngapdet": {
+      "su": "ngapdet",
+      "id": "pembaruan",
+      "en": "update",
+      "kategori": "kerja"
+    },
+    "ngadamel": {
+      "su": "ngadamel",
+      "id": "membuat",
+      "en": "create",
+      "kategori": "kerja"
+    },
+    "ngalereskeun": {
+      "su": "ngalereskeun",
+      "id": "memperbaiki",
+      "en": "fix",
+      "kategori": "kerja"
+    },
+    "ngahapus": {
+      "su": "ngahapus",
+      "id": "menghapus",
+      "en": "delete",
+      "kategori": "kerja"
+    },
+    "nyimpen": {
+      "su": "nyimpen",
+      "id": "menyimpan",
+      "en": "save",
+      "kategori": "kerja"
+    },
+    "muka": {
+      "su": "muka",
+      "id": "membuka",
+      "en": "open",
+      "kategori": "kerja"
+    },
+    "nutup": {
+      "su": "nutup",
+      "id": "menutup",
+      "en": "close",
+      "kategori": "kerja"
+    },
+    "asup": {
+      "su": "asup",
+      "id": "masuk",
+      "en": "login",
+      "kategori": "kerja"
+    },
+    "kaluar": {
+      "su": "kaluar",
+      "id": "keluar",
+      "en": "logout",
+      "kategori": "kerja"
+    },
+    "pilarian": {
+      "su": "pilarian",
+      "id": "pencarian",
+      "en": "search",
+      "kategori": "benda"
     }
   }
 }

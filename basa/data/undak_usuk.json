@@ -1,12 +1,102 @@
 {
-  "meta": {
-    "project": "Panyambung Basa",
-    "type": "linguistic rules"
+  "pilihan": {
+    "kasar": "pilihan",
+    "sedeng": "pilihan",
+    "lemes": "pilihan"
   },
-  "rules": {
-    "ngabenerkeun": {
-      "kasar": "ngabenerkeun",
-      "lemes": "ngalereskeun"
-    }
+  "data": {
+    "kasar": "data",
+    "sedeng": "data",
+    "lemes": "data"
+  },
+  "sistem": {
+    "kasar": "sistem",
+    "sedeng": "sistem",
+    "lemes": "sistem"
+  },
+  "aplikasi": {
+    "kasar": "aplikasi",
+    "sedeng": "aplikasi",
+    "lemes": "aplikasi"
+  },
+  "mahasiswa": {
+    "kasar": "mahasiswa",
+    "sedeng": "mahasiswa",
+    "lemes": "mahasiswa"
+  },
+  "dosen": {
+    "kasar": "dosen",
+    "sedeng": "dosen",
+    "lemes": "dosen"
+  },
+  "kampus": {
+    "kasar": "kampus",
+    "sedeng": "kampus",
+    "lemes": "kampus"
+  },
+  "kelas": {
+    "kasar": "kelas",
+    "sedeng": "kelas",
+    "lemes": "kelas"
+  },
+  "jadwal": {
+    "kasar": "jadwal",
+    "sedeng": "jadwal",
+    "lemes": "jadwal"
+  },
+  "nilai": {
+    "kasar": "nilai",
+    "sedeng": "nilai",
+    "lemes": "nilai"
+  },
+  "ngapdet": {
+    "kasar": "ngapdet",
+    "sedeng": "ngapdet",
+    "lemes": "nganyarkeun"
+  },
+  "ngadamel": {
+    "kasar": "ngadamel",
+    "sedeng": "ngadamel",
+    "lemes": "ngadamel"
+  },
+  "ngalereskeun": {
+    "kasar": "ngalereskeun",
+    "sedeng": "ngalereskeun",
+    "lemes": "ngalereskeun"
+  },
+  "ngahapus": {
+    "kasar": "ngahapus",
+    "sedeng": "ngahapus",
+    "lemes": "ngahapus"
+  },
+  "nyimpen": {
+    "kasar": "nyimpen",
+    "sedeng": "nyimpen",
+    "lemes": "nyimpen"
+  },
+  "muka": {
+    "kasar": "muka",
+    "sedeng": "muka",
+    "lemes": "muka"
+  },
+  "nutup": {
+    "kasar": "nutup",
+    "sedeng": "nutup",
+    "lemes": "nutup"
+  },
+  "asup": {
+    "kasar": "asup",
+    "sedeng": "asup",
+    "lemes": "asup"
+  },
+  "kaluar": {
+    "kasar": "kaluar",
+    "sedeng": "kaluar",
+    "lemes": "kaluar"
+  },
+  "pilarian": {
+    "kasar": "pilarian",
+    "sedeng": "pilarian",
+    "lemes": "pilarian"
   }
 }
