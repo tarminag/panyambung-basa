@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "project": "Panyambung Basa",
+    "type": "linguistic rules"
+  },
+  "rules": {
+    "ngabenerkeun": {
+      "kasar": "ngabenerkeun",
+      "lemes": "ngalereskeun"
+    }
+  }
+}

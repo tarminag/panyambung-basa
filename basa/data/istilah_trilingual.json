@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "project": "Panyambung Basa",
+    "authority": "Tarmin Abdulghani",
+    "version": "v1.0",
+    "type": "curated snapshot"
+  },
+  "terms": {
+    "opsi": {
+      "su": "pilihan",
+      "id": "opsi",
+      "en": "option",
+      "catetan": "Padanan baku Basa Sunda"
+    },
+    "developer": {
+      "su": "pangembang parangkat lunak",
+      "id": "pengembang perangkat lunak",
+      "en": "software developer"
+    },
+    "mahasiswa": {
+      "su": "mahasiswa",
+      "id": "mahasiswa",
+      "en": "student"
+    }
+  }
+}

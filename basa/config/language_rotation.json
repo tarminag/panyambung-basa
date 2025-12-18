@@ -1,0 +1,8 @@
+{
+  "rotation_start": "2025-01-01",
+  "languages": [
+    { "code": "su", "name": "Basa Sunda", "days": 3 },
+    { "code": "id", "name": "Bahasa Indonesia", "days": 2 },
+    { "code": "en", "name": "English", "days": 1 }
+  ]
+}
