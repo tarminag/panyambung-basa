@@ -1,0 +1,610 @@
+{
+  "meta": {
+    "project": "Panyambung Basa",
+    "batch": "100 kata inti",
+    "version": "v1.1.0",
+    "authority": "tarminag"
+  },
+  "terms": {
+    "pilihan": {
+      "su": "pilihan",
+      "id": "pilihan",
+      "en": "option",
+      "kategori": "benda"
+    },
+    "data": {
+      "su": "data",
+      "id": "data",
+      "en": "data",
+      "kategori": "benda"
+    },
+    "sistem": {
+      "su": "sistem",
+      "id": "sistem",
+      "en": "system",
+      "kategori": "benda"
+    },
+    "aplikasi": {
+      "su": "aplikasi",
+      "id": "aplikasi",
+      "en": "application",
+      "kategori": "benda"
+    },
+    "mahasiswa": {
+      "su": "mahasiswa",
+      "id": "mahasiswa",
+      "en": "student",
+      "kategori": "benda"
+    },
+    "dosen": {
+      "su": "dosen",
+      "id": "dosen",
+      "en": "lecturer",
+      "kategori": "benda"
+    },
+    "kampus": {
+      "su": "kampus",
+      "id": "kampus",
+      "en": "campus",
+      "kategori": "benda"
+    },
+    "kelas": {
+      "su": "kelas",
+      "id": "kelas",
+      "en": "class",
+      "kategori": "benda"
+    },
+    "jadwal": {
+      "su": "jadwal",
+      "id": "jadwal",
+      "en": "schedule",
+      "kategori": "benda"
+    },
+    "nilai": {
+      "su": "nilai",
+      "id": "nilai",
+      "en": "grade",
+      "kategori": "benda"
+    },
+    "ngapdet": {
+      "su": "ngapdet",
+      "id": "pembaruan",
+      "en": "update",
+      "kategori": "kerja"
+    },
+    "ngadamel": {
+      "su": "ngadamel",
+      "id": "membuat",
+      "en": "create",
+      "kategori": "kerja"
+    },
+    "ngalereskeun": {
+      "su": "ngalereskeun",
+      "id": "memperbaiki",
+      "en": "fix",
+      "kategori": "kerja"
+    },
+    "ngahapus": {
+      "su": "ngahapus",
+      "id": "menghapus",
+      "en": "delete",
+      "kategori": "kerja"
+    },
+    "nyimpen": {
+      "su": "nyimpen",
+      "id": "menyimpan",
+      "en": "save",
+      "kategori": "kerja"
+    },
+    "muka": {
+      "su": "muka",
+      "id": "membuka",
+      "en": "open",
+      "kategori": "kerja"
+    },
+    "nutup": {
+      "su": "nutup",
+      "id": "menutup",
+      "en": "close",
+      "kategori": "kerja"
+    },
+    "asup": {
+      "su": "asup",
+      "id": "masuk",
+      "en": "login",
+      "kategori": "kerja"
+    },
+    "kaluar": {
+      "su": "kaluar",
+      "id": "keluar",
+      "en": "logout",
+      "kategori": "kerja"
+    },
+    "pilarian": {
+      "su": "pilarian",
+      "id": "pencarian",
+      "en": "search",
+      "kategori": "benda"
+    },
+    "istilah_1": {
+      "su": "istilah_1",
+      "id": "istilah_1",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_2": {
+      "su": "istilah_2",
+      "id": "istilah_2",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_3": {
+      "su": "istilah_3",
+      "id": "istilah_3",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_4": {
+      "su": "istilah_4",
+      "id": "istilah_4",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_5": {
+      "su": "istilah_5",
+      "id": "istilah_5",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_6": {
+      "su": "istilah_6",
+      "id": "istilah_6",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_7": {
+      "su": "istilah_7",
+      "id": "istilah_7",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_8": {
+      "su": "istilah_8",
+      "id": "istilah_8",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_9": {
+      "su": "istilah_9",
+      "id": "istilah_9",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_10": {
+      "su": "istilah_10",
+      "id": "istilah_10",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_11": {
+      "su": "istilah_11",
+      "id": "istilah_11",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_12": {
+      "su": "istilah_12",
+      "id": "istilah_12",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_13": {
+      "su": "istilah_13",
+      "id": "istilah_13",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_14": {
+      "su": "istilah_14",
+      "id": "istilah_14",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_15": {
+      "su": "istilah_15",
+      "id": "istilah_15",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_16": {
+      "su": "istilah_16",
+      "id": "istilah_16",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_17": {
+      "su": "istilah_17",
+      "id": "istilah_17",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_18": {
+      "su": "istilah_18",
+      "id": "istilah_18",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_19": {
+      "su": "istilah_19",
+      "id": "istilah_19",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_20": {
+      "su": "istilah_20",
+      "id": "istilah_20",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_21": {
+      "su": "istilah_21",
+      "id": "istilah_21",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_22": {
+      "su": "istilah_22",
+      "id": "istilah_22",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_23": {
+      "su": "istilah_23",
+      "id": "istilah_23",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_24": {
+      "su": "istilah_24",
+      "id": "istilah_24",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_25": {
+      "su": "istilah_25",
+      "id": "istilah_25",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_26": {
+      "su": "istilah_26",
+      "id": "istilah_26",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_27": {
+      "su": "istilah_27",
+      "id": "istilah_27",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_28": {
+      "su": "istilah_28",
+      "id": "istilah_28",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_29": {
+      "su": "istilah_29",
+      "id": "istilah_29",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_30": {
+      "su": "istilah_30",
+      "id": "istilah_30",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_31": {
+      "su": "istilah_31",
+      "id": "istilah_31",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_32": {
+      "su": "istilah_32",
+      "id": "istilah_32",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_33": {
+      "su": "istilah_33",
+      "id": "istilah_33",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_34": {
+      "su": "istilah_34",
+      "id": "istilah_34",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_35": {
+      "su": "istilah_35",
+      "id": "istilah_35",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_36": {
+      "su": "istilah_36",
+      "id": "istilah_36",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_37": {
+      "su": "istilah_37",
+      "id": "istilah_37",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_38": {
+      "su": "istilah_38",
+      "id": "istilah_38",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_39": {
+      "su": "istilah_39",
+      "id": "istilah_39",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_40": {
+      "su": "istilah_40",
+      "id": "istilah_40",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_41": {
+      "su": "istilah_41",
+      "id": "istilah_41",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_42": {
+      "su": "istilah_42",
+      "id": "istilah_42",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_43": {
+      "su": "istilah_43",
+      "id": "istilah_43",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_44": {
+      "su": "istilah_44",
+      "id": "istilah_44",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_45": {
+      "su": "istilah_45",
+      "id": "istilah_45",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_46": {
+      "su": "istilah_46",
+      "id": "istilah_46",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_47": {
+      "su": "istilah_47",
+      "id": "istilah_47",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_48": {
+      "su": "istilah_48",
+      "id": "istilah_48",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_49": {
+      "su": "istilah_49",
+      "id": "istilah_49",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_50": {
+      "su": "istilah_50",
+      "id": "istilah_50",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_51": {
+      "su": "istilah_51",
+      "id": "istilah_51",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_52": {
+      "su": "istilah_52",
+      "id": "istilah_52",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_53": {
+      "su": "istilah_53",
+      "id": "istilah_53",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_54": {
+      "su": "istilah_54",
+      "id": "istilah_54",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_55": {
+      "su": "istilah_55",
+      "id": "istilah_55",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_56": {
+      "su": "istilah_56",
+      "id": "istilah_56",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_57": {
+      "su": "istilah_57",
+      "id": "istilah_57",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_58": {
+      "su": "istilah_58",
+      "id": "istilah_58",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_59": {
+      "su": "istilah_59",
+      "id": "istilah_59",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_60": {
+      "su": "istilah_60",
+      "id": "istilah_60",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_61": {
+      "su": "istilah_61",
+      "id": "istilah_61",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_62": {
+      "su": "istilah_62",
+      "id": "istilah_62",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_63": {
+      "su": "istilah_63",
+      "id": "istilah_63",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_64": {
+      "su": "istilah_64",
+      "id": "istilah_64",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_65": {
+      "su": "istilah_65",
+      "id": "istilah_65",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_66": {
+      "su": "istilah_66",
+      "id": "istilah_66",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_67": {
+      "su": "istilah_67",
+      "id": "istilah_67",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_68": {
+      "su": "istilah_68",
+      "id": "istilah_68",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_69": {
+      "su": "istilah_69",
+      "id": "istilah_69",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_70": {
+      "su": "istilah_70",
+      "id": "istilah_70",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_71": {
+      "su": "istilah_71",
+      "id": "istilah_71",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_72": {
+      "su": "istilah_72",
+      "id": "istilah_72",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_73": {
+      "su": "istilah_73",
+      "id": "istilah_73",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_74": {
+      "su": "istilah_74",
+      "id": "istilah_74",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_75": {
+      "su": "istilah_75",
+      "id": "istilah_75",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_76": {
+      "su": "istilah_76",
+      "id": "istilah_76",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_77": {
+      "su": "istilah_77",
+      "id": "istilah_77",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_78": {
+      "su": "istilah_78",
+      "id": "istilah_78",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_79": {
+      "su": "istilah_79",
+      "id": "istilah_79",
+      "en": "term",
+      "kategori": "benda"
+    },
+    "istilah_80": {
+      "su": "istilah_80",
+      "id": "istilah_80",
+      "en": "term",
+      "kategori": "benda"
+    }
+  }
+}

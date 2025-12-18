@@ -1,0 +1,502 @@
+{
+  "pilihan": {
+    "kasar": "pilihan",
+    "sedeng": "pilihan",
+    "lemes": "pilihan"
+  },
+  "data": {
+    "kasar": "data",
+    "sedeng": "data",
+    "lemes": "data"
+  },
+  "sistem": {
+    "kasar": "sistem",
+    "sedeng": "sistem",
+    "lemes": "sistem"
+  },
+  "aplikasi": {
+    "kasar": "aplikasi",
+    "sedeng": "aplikasi",
+    "lemes": "aplikasi"
+  },
+  "mahasiswa": {
+    "kasar": "mahasiswa",
+    "sedeng": "mahasiswa",
+    "lemes": "mahasiswa"
+  },
+  "dosen": {
+    "kasar": "dosen",
+    "sedeng": "dosen",
+    "lemes": "dosen"
+  },
+  "kampus": {
+    "kasar": "kampus",
+    "sedeng": "kampus",
+    "lemes": "kampus"
+  },
+  "kelas": {
+    "kasar": "kelas",
+    "sedeng": "kelas",
+    "lemes": "kelas"
+  },
+  "jadwal": {
+    "kasar": "jadwal",
+    "sedeng": "jadwal",
+    "lemes": "jadwal"
+  },
+  "nilai": {
+    "kasar": "nilai",
+    "sedeng": "nilai",
+    "lemes": "nilai"
+  },
+  "ngapdet": {
+    "kasar": "ngapdet",
+    "sedeng": "ngapdet",
+    "lemes": "nganyarkeun"
+  },
+  "ngadamel": {
+    "kasar": "ngadamel",
+    "sedeng": "ngadamel",
+    "lemes": "ngadamel"
+  },
+  "ngalereskeun": {
+    "kasar": "ngalereskeun",
+    "sedeng": "ngalereskeun",
+    "lemes": "ngalereskeun"
+  },
+  "ngahapus": {
+    "kasar": "ngahapus",
+    "sedeng": "ngahapus",
+    "lemes": "ngahapus"
+  },
+  "nyimpen": {
+    "kasar": "nyimpen",
+    "sedeng": "nyimpen",
+    "lemes": "nyimpen"
+  },
+  "muka": {
+    "kasar": "muka",
+    "sedeng": "muka",
+    "lemes": "muka"
+  },
+  "nutup": {
+    "kasar": "nutup",
+    "sedeng": "nutup",
+    "lemes": "nutup"
+  },
+  "asup": {
+    "kasar": "asup",
+    "sedeng": "asup",
+    "lemes": "asup"
+  },
+  "kaluar": {
+    "kasar": "kaluar",
+    "sedeng": "kaluar",
+    "lemes": "kaluar"
+  },
+  "pilarian": {
+    "kasar": "pilarian",
+    "sedeng": "pilarian",
+    "lemes": "pilarian"
+  },
+  "istilah_1": {
+    "kasar": "istilah_1",
+    "sedeng": "istilah_1",
+    "lemes": "istilah_1"
+  },
+  "istilah_2": {
+    "kasar": "istilah_2",
+    "sedeng": "istilah_2",
+    "lemes": "istilah_2"
+  },
+  "istilah_3": {
+    "kasar": "istilah_3",
+    "sedeng": "istilah_3",
+    "lemes": "istilah_3"
+  },
+  "istilah_4": {
+    "kasar": "istilah_4",
+    "sedeng": "istilah_4",
+    "lemes": "istilah_4"
+  },
+  "istilah_5": {
+    "kasar": "istilah_5",
+    "sedeng": "istilah_5",
+    "lemes": "istilah_5"
+  },
+  "istilah_6": {
+    "kasar": "istilah_6",
+    "sedeng": "istilah_6",
+    "lemes": "istilah_6"
+  },
+  "istilah_7": {
+    "kasar": "istilah_7",
+    "sedeng": "istilah_7",
+    "lemes": "istilah_7"
+  },
+  "istilah_8": {
+    "kasar": "istilah_8",
+    "sedeng": "istilah_8",
+    "lemes": "istilah_8"
+  },
+  "istilah_9": {
+    "kasar": "istilah_9",
+    "sedeng": "istilah_9",
+    "lemes": "istilah_9"
+  },
+  "istilah_10": {
+    "kasar": "istilah_10",
+    "sedeng": "istilah_10",
+    "lemes": "istilah_10"
+  },
+  "istilah_11": {
+    "kasar": "istilah_11",
+    "sedeng": "istilah_11",
+    "lemes": "istilah_11"
+  },
+  "istilah_12": {
+    "kasar": "istilah_12",
+    "sedeng": "istilah_12",
+    "lemes": "istilah_12"
+  },
+  "istilah_13": {
+    "kasar": "istilah_13",
+    "sedeng": "istilah_13",
+    "lemes": "istilah_13"
+  },
+  "istilah_14": {
+    "kasar": "istilah_14",
+    "sedeng": "istilah_14",
+    "lemes": "istilah_14"
+  },
+  "istilah_15": {
+    "kasar": "istilah_15",
+    "sedeng": "istilah_15",
+    "lemes": "istilah_15"
+  },
+  "istilah_16": {
+    "kasar": "istilah_16",
+    "sedeng": "istilah_16",
+    "lemes": "istilah_16"
+  },
+  "istilah_17": {
+    "kasar": "istilah_17",
+    "sedeng": "istilah_17",
+    "lemes": "istilah_17"
+  },
+  "istilah_18": {
+    "kasar": "istilah_18",
+    "sedeng": "istilah_18",
+    "lemes": "istilah_18"
+  },
+  "istilah_19": {
+    "kasar": "istilah_19",
+    "sedeng": "istilah_19",
+    "lemes": "istilah_19"
+  },
+  "istilah_20": {
+    "kasar": "istilah_20",
+    "sedeng": "istilah_20",
+    "lemes": "istilah_20"
+  },
+  "istilah_21": {
+    "kasar": "istilah_21",
+    "sedeng": "istilah_21",
+    "lemes": "istilah_21"
+  },
+  "istilah_22": {
+    "kasar": "istilah_22",
+    "sedeng": "istilah_22",
+    "lemes": "istilah_22"
+  },
+  "istilah_23": {
+    "kasar": "istilah_23",
+    "sedeng": "istilah_23",
+    "lemes": "istilah_23"
+  },
+  "istilah_24": {
+    "kasar": "istilah_24",
+    "sedeng": "istilah_24",
+    "lemes": "istilah_24"
+  },
+  "istilah_25": {
+    "kasar": "istilah_25",
+    "sedeng": "istilah_25",
+    "lemes": "istilah_25"
+  },
+  "istilah_26": {
+    "kasar": "istilah_26",
+    "sedeng": "istilah_26",
+    "lemes": "istilah_26"
+  },
+  "istilah_27": {
+    "kasar": "istilah_27",
+    "sedeng": "istilah_27",
+    "lemes": "istilah_27"
+  },
+  "istilah_28": {
+    "kasar": "istilah_28",
+    "sedeng": "istilah_28",
+    "lemes": "istilah_28"
+  },
+  "istilah_29": {
+    "kasar": "istilah_29",
+    "sedeng": "istilah_29",
+    "lemes": "istilah_29"
+  },
+  "istilah_30": {
+    "kasar": "istilah_30",
+    "sedeng": "istilah_30",
+    "lemes": "istilah_30"
+  },
+  "istilah_31": {
+    "kasar": "istilah_31",
+    "sedeng": "istilah_31",
+    "lemes": "istilah_31"
+  },
+  "istilah_32": {
+    "kasar": "istilah_32",
+    "sedeng": "istilah_32",
+    "lemes": "istilah_32"
+  },
+  "istilah_33": {
+    "kasar": "istilah_33",
+    "sedeng": "istilah_33",
+    "lemes": "istilah_33"
+  },
+  "istilah_34": {
+    "kasar": "istilah_34",
+    "sedeng": "istilah_34",
+    "lemes": "istilah_34"
+  },
+  "istilah_35": {
+    "kasar": "istilah_35",
+    "sedeng": "istilah_35",
+    "lemes": "istilah_35"
+  },
+  "istilah_36": {
+    "kasar": "istilah_36",
+    "sedeng": "istilah_36",
+    "lemes": "istilah_36"
+  },
+  "istilah_37": {
+    "kasar": "istilah_37",
+    "sedeng": "istilah_37",
+    "lemes": "istilah_37"
+  },
+  "istilah_38": {
+    "kasar": "istilah_38",
+    "sedeng": "istilah_38",
+    "lemes": "istilah_38"
+  },
+  "istilah_39": {
+    "kasar": "istilah_39",
+    "sedeng": "istilah_39",
+    "lemes": "istilah_39"
+  },
+  "istilah_40": {
+    "kasar": "istilah_40",
+    "sedeng": "istilah_40",
+    "lemes": "istilah_40"
+  },
+  "istilah_41": {
+    "kasar": "istilah_41",
+    "sedeng": "istilah_41",
+    "lemes": "istilah_41"
+  },
+  "istilah_42": {
+    "kasar": "istilah_42",
+    "sedeng": "istilah_42",
+    "lemes": "istilah_42"
+  },
+  "istilah_43": {
+    "kasar": "istilah_43",
+    "sedeng": "istilah_43",
+    "lemes": "istilah_43"
+  },
+  "istilah_44": {
+    "kasar": "istilah_44",
+    "sedeng": "istilah_44",
+    "lemes": "istilah_44"
+  },
+  "istilah_45": {
+    "kasar": "istilah_45",
+    "sedeng": "istilah_45",
+    "lemes": "istilah_45"
+  },
+  "istilah_46": {
+    "kasar": "istilah_46",
+    "sedeng": "istilah_46",
+    "lemes": "istilah_46"
+  },
+  "istilah_47": {
+    "kasar": "istilah_47",
+    "sedeng": "istilah_47",
+    "lemes": "istilah_47"
+  },
+  "istilah_48": {
+    "kasar": "istilah_48",
+    "sedeng": "istilah_48",
+    "lemes": "istilah_48"
+  },
+  "istilah_49": {
+    "kasar": "istilah_49",
+    "sedeng": "istilah_49",
+    "lemes": "istilah_49"
+  },
+  "istilah_50": {
+    "kasar": "istilah_50",
+    "sedeng": "istilah_50",
+    "lemes": "istilah_50"
+  },
+  "istilah_51": {
+    "kasar": "istilah_51",
+    "sedeng": "istilah_51",
+    "lemes": "istilah_51"
+  },
+  "istilah_52": {
+    "kasar": "istilah_52",
+    "sedeng": "istilah_52",
+    "lemes": "istilah_52"
+  },
+  "istilah_53": {
+    "kasar": "istilah_53",
+    "sedeng": "istilah_53",
+    "lemes": "istilah_53"
+  },
+  "istilah_54": {
+    "kasar": "istilah_54",
+    "sedeng": "istilah_54",
+    "lemes": "istilah_54"
+  },
+  "istilah_55": {
+    "kasar": "istilah_55",
+    "sedeng": "istilah_55",
+    "lemes": "istilah_55"
+  },
+  "istilah_56": {
+    "kasar": "istilah_56",
+    "sedeng": "istilah_56",
+    "lemes": "istilah_56"
+  },
+  "istilah_57": {
+    "kasar": "istilah_57",
+    "sedeng": "istilah_57",
+    "lemes": "istilah_57"
+  },
+  "istilah_58": {
+    "kasar": "istilah_58",
+    "sedeng": "istilah_58",
+    "lemes": "istilah_58"
+  },
+  "istilah_59": {
+    "kasar": "istilah_59",
+    "sedeng": "istilah_59",
+    "lemes": "istilah_59"
+  },
+  "istilah_60": {
+    "kasar": "istilah_60",
+    "sedeng": "istilah_60",
+    "lemes": "istilah_60"
+  },
+  "istilah_61": {
+    "kasar": "istilah_61",
+    "sedeng": "istilah_61",
+    "lemes": "istilah_61"
+  },
+  "istilah_62": {
+    "kasar": "istilah_62",
+    "sedeng": "istilah_62",
+    "lemes": "istilah_62"
+  },
+  "istilah_63": {
+    "kasar": "istilah_63",
+    "sedeng": "istilah_63",
+    "lemes": "istilah_63"
+  },
+  "istilah_64": {
+    "kasar": "istilah_64",
+    "sedeng": "istilah_64",
+    "lemes": "istilah_64"
+  },
+  "istilah_65": {
+    "kasar": "istilah_65",
+    "sedeng": "istilah_65",
+    "lemes": "istilah_65"
+  },
+  "istilah_66": {
+    "kasar": "istilah_66",
+    "sedeng": "istilah_66",
+    "lemes": "istilah_66"
+  },
+  "istilah_67": {
+    "kasar": "istilah_67",
+    "sedeng": "istilah_67",
+    "lemes": "istilah_67"
+  },
+  "istilah_68": {
+    "kasar": "istilah_68",
+    "sedeng": "istilah_68",
+    "lemes": "istilah_68"
+  },
+  "istilah_69": {
+    "kasar": "istilah_69",
+    "sedeng": "istilah_69",
+    "lemes": "istilah_69"
+  },
+  "istilah_70": {
+    "kasar": "istilah_70",
+    "sedeng": "istilah_70",
+    "lemes": "istilah_70"
+  },
+  "istilah_71": {
+    "kasar": "istilah_71",
+    "sedeng": "istilah_71",
+    "lemes": "istilah_71"
+  },
+  "istilah_72": {
+    "kasar": "istilah_72",
+    "sedeng": "istilah_72",
+    "lemes": "istilah_72"
+  },
+  "istilah_73": {
+    "kasar": "istilah_73",
+    "sedeng": "istilah_73",
+    "lemes": "istilah_73"
+  },
+  "istilah_74": {
+    "kasar": "istilah_74",
+    "sedeng": "istilah_74",
+    "lemes": "istilah_74"
+  },
+  "istilah_75": {
+    "kasar": "istilah_75",
+    "sedeng": "istilah_75",
+    "lemes": "istilah_75"
+  },
+  "istilah_76": {
+    "kasar": "istilah_76",
+    "sedeng": "istilah_76",
+    "lemes": "istilah_76"
+  },
+  "istilah_77": {
+    "kasar": "istilah_77",
+    "sedeng": "istilah_77",
+    "lemes": "istilah_77"
+  },
+  "istilah_78": {
+    "kasar": "istilah_78",
+    "sedeng": "istilah_78",
+    "lemes": "istilah_78"
+  },
+  "istilah_79": {
+    "kasar": "istilah_79",
+    "sedeng": "istilah_79",
+    "lemes": "istilah_79"
+  },
+  "istilah_80": {
+    "kasar": "istilah_80",
+    "sedeng": "istilah_80",
+    "lemes": "istilah_80"
+  }
+}
